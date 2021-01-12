@@ -84,15 +84,12 @@
 														</a>
 														<div class="button-head">															
 															<div class="product-action-2">
-																<a title="Add to cart" href="#">Adicionar ao carrinho</a>
+																<a title="Add to cart" href="#">Ver Catálogo</a>
 															</div>
 														</div>
 													</div>
 													<div class="product-content">
-														<h3><a href="product-details.html">Women Hot Collection</a></h3>
-														<div class="product-price">
-															<span>$29.00</span>
-														</div>
+														<h3><a href="product-details.html">Catálogo 2</a></h3>											
 													</div>
 												</div>
 											</div>
@@ -105,15 +102,12 @@
 														</a>
 														<div class="button-head">															
 															<div class="product-action-2">
-																<a title="Add to cart" href="#">Adicionar ao carrinho</a>
+																<a title="Add to cart" href="#">Ver Catálogo</a>
 															</div>
 														</div>
 													</div>
 													<div class="product-content">
-														<h3><a href="product-details.html">Women Hot Collection</a></h3>
-														<div class="product-price">
-															<span>$29.00</span>
-														</div>
+														<h3><a href="product-details.html">Catálogo 3</a></h3>											
 													</div>
 												</div>
 											</div>
@@ -126,15 +120,12 @@
 														</a>
 														<div class="button-head">															
 															<div class="product-action-2">
-																<a title="Add to cart" href="#">Adicionar ao carrinho</a>
+																<a title="Add to cart" href="#">Ver Catálogo</a>
 															</div>
 														</div>
 													</div>
 													<div class="product-content">
-														<h3><a href="product-details.html">Women Hot Collection</a></h3>
-														<div class="product-price">
-															<span>$29.00</span>
-														</div>
+														<h3><a href="product-details.html">Catálogo 4</a></h3>											
 													</div>
 												</div>
 											</div>
@@ -147,15 +138,12 @@
 														</a>
 														<div class="button-head">															
 															<div class="product-action-2">
-																<a title="Add to cart" href="#">Adicionar ao carrinho</a>
+																<a title="Add to cart" href="#">Ver Catálogo</a>
 															</div>
 														</div>
 													</div>
 													<div class="product-content">
-														<h3><a href="product-details.html">Women Hot Collection</a></h3>
-														<div class="product-price">
-															<span>$29.00</span>
-														</div>
+														<h3><a href="product-details.html">Catálogo 5</a></h3>											
 													</div>
 												</div>
 											</div>
@@ -168,15 +156,12 @@
 														</a>
 														<div class="button-head">															
 															<div class="product-action-2">
-																<a title="Add to cart" href="#">Adicionar ao carrinho</a>
+																<a title="Add to cart" href="#">Ver Catálogo</a>
 															</div>
 														</div>
 													</div>
 													<div class="product-content">
-														<h3><a href="product-details.html">Women Hot Collection</a></h3>
-														<div class="product-price">
-															<span>$29.00</span>
-														</div>
+														<h3><a href="product-details.html">Catálogo 6</a></h3>											
 													</div>
 												</div>
 											</div>
@@ -189,15 +174,12 @@
 														</a>
 														<div class="button-head">															
 															<div class="product-action-2">
-																<a title="Add to cart" href="#">Adicionar ao carrinho</a>
+																<a title="Add to cart" href="#">Ver Catálogo</a>
 															</div>
 														</div>
 													</div>
 													<div class="product-content">
-														<h3><a href="product-details.html">Women Hot Collection</a></h3>
-														<div class="product-price">
-															<span>$29.00</span>
-														</div>
+														<h3><a href="product-details.html">Catálogo 7</a></h3>											
 													</div>
 												</div>
 											</div>
@@ -210,15 +192,12 @@
 														</a>
 														<div class="button-head">															
 															<div class="product-action-2">
-																<a title="Add to cart" href="#">Adicionar ao carrinho</a>
+																<a title="Add to cart" href="#">Ver Catálogo</a>
 															</div>
 														</div>
 													</div>
 													<div class="product-content">
-														<h3><a href="product-details.html">Women Hot Collection</a></h3>
-														<div class="product-price">
-															<span>$29.00</span>
-														</div>
+														<h3><a href="product-details.html">Catálogo 8</a></h3>											
 													</div>
 												</div>
 											</div>
