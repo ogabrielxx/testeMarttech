@@ -66,7 +66,7 @@
 															<img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">												
 														</a>
 													</div>	
-														<input type="button" value="Add. ao carrinho" onclick="setLocalStorage();"/>
+														<input type="button" value="Add. ao carrinho" onclick="setLocalStorage2();"/>
 												</div>
 											</div>
 										</div>

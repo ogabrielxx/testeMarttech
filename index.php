@@ -37,7 +37,7 @@
 	
     </head>
     <body>
-	    <h4 align="right">Carrinho<img src="media/icones/carrinho.svg" width="3.5%"></h4>
+	    <a href="carrinho.php"><h4 align="right">Carrinho<img src="media/icones/carrinho.svg" width="3.5%"></h4></a>
         <center><h1>Página Inicial<h1></center>
 		<!-- Catálogos  -->
     <div class="product-area section">
