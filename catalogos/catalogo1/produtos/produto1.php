@@ -6,6 +6,7 @@
         <link href="../../../css/bootstrap.min.css" rel="stylesheet" type="text/css" />
         <script type="text/javascript" src="../../../js/jquery-3.5.1.min.js"></script>
         <script type="text/javascript" src="../../../js/bootstrap.min.js"></script>
+		<script type="text/javascript" src="../../../js/localstorage.js"></script>
 		
 		
 		<!-- Bootstrap -->
@@ -37,7 +38,7 @@
 	
     </head>
     <body>
-	    <h4 align="right">Carrinho<img src="media/icones/carrinho.svg" width="3.5%"></h4>
+	    <h4 align="right">Carrinho<img src="../../../media/icones/carrinho.svg" width="3.5%"></h4>
         <center><h1><a href="../../../index.php">Página Inicial</a><h1></center>
 		<!-- Catálogos  -->
     <div class="product-area section">
@@ -62,10 +63,10 @@
 													<div class="product-img">
 														<a href="product-details.html">
 															<img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
-															<img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
-												
+															<img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">												
 														</a>
-													</div>									
+													</div>	
+														<input type="button" value="Add. ao carrinho" onclick="setLocalStorage();"/>
 												</div>
 											</div>
 										</div>
@@ -78,5 +79,6 @@
 				</div>
             </div>
     </div>
+
     </body>
 </html>
