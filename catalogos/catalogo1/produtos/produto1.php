@@ -38,7 +38,7 @@
 	
     </head>
     <body>
-	    <h4 align="right">Carrinho<img src="../../../media/icones/carrinho.svg" width="3.5%"></h4>
+	    <a href="../../../carrinho.php"><h4 align="right">Carrinho<img src="../../../media/icones/carrinho.svg" width="3.5%"></h4></a>
         <center><h1><a href="../../../index.php">Página Inicial</a><h1></center>
 		<!-- Catálogos  -->
     <div class="product-area section">
@@ -66,7 +66,7 @@
 															<img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">												
 														</a>
 													</div>	
-														<input type="button" value="Add. ao carrinho" onclick="setLocalStorage2();"/>
+														<input type="button" value="Add. ao carrinho" onclick="setLocalStorage1();"/>
 												</div>
 											</div>
 										</div>

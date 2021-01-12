@@ -55,9 +55,12 @@
 						<div class="product-info">
 							<div class="tab-content" id="myTabContent">
 							<!--/ Listagem dos produtos no carrinho -->
-								 <script action="getLocalStorage();"> </script>
+							<?php
+								$produto = "<script>localStorage.getItem('nome')</script>" 
+								?>
 							
-										</div>
+						
+						
 									</div>
 								</div>
 								<!--/ Fim da listagem dos produtos no carrinho -->

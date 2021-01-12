@@ -61,8 +61,8 @@
 												<div class="single-product">
 													<div class="product-img">
 														<a href="product-details.html">
-															<img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
-															<img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
+															<img class="default-img" src="https://via.placeholder.com/550x750" alt="produtos/produto1.php">
+															<img class="hover-img" src="https://via.placeholder.com/550x750" alt="produtos/produto1.php">
 														</a>
 														<div class="button-head">															
 															<div class="product-action-2">
@@ -79,12 +79,12 @@
 												<div class="single-product">
 													<div class="product-img">
 														<a href="product-details.html">
-															<img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
-															<img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
+															<img class="default-img" src="https://via.placeholder.com/550x750" alt="produtos/produto2.php">
+															<img class="hover-img" src="https://via.placeholder.com/550x750" alt="produtos/produto2.php">
 														</a>
 														<div class="button-head">															
 															<div class="product-action-2">
-																<a title="Add to cart" href="#">Ver Produto</a>
+																<a title="Add to cart" href="produtos/produto2.php">Ver Produto</a>
 															</div>
 														</div>
 													</div>
@@ -97,12 +97,12 @@
 												<div class="single-product">
 													<div class="product-img">
 														<a href="product-details.html">
-															<img class="default-img" src="https://via.placeholder.com/550x750" alt="#">
-															<img class="hover-img" src="https://via.placeholder.com/550x750" alt="#">
+															<img class="default-img" src="https://via.placeholder.com/550x750" alt="produtos/produto3.php">
+															<img class="hover-img" src="https://via.placeholder.com/550x750" alt="produtos/produto3.php">
 														</a>
 														<div class="button-head">															
 															<div class="product-action-2">
-																<a title="Add to cart" href="#">Ver Produto</a>
+																<a title="Add to cart" href="produtos/produto3.php">Ver Produto</a>
 															</div>
 														</div>
 													</div>
